@@ -1,2 +1,1 @@
-hi
 baekjoon pb
